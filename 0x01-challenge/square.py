@@ -7,12 +7,11 @@ area and perimeter
 
 class Square:
     """
-    A square class with variable initialization
-    height = 0
-    weight = 0
+    Definition of class square
     """
 
     def __init__(self, width=0, height=0):
+        """ Initialization of class square """
         self.width = width
         self.height = height
 
