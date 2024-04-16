@@ -6,6 +6,11 @@ area and perimeter
 
 
 class Square:
+    """
+    A square class with variable initialization
+    height = 0
+    weight = 0
+    """
 
     def __init__(self, width=0, height=0):
         self.width = width
