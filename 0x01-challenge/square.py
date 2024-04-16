@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# A class with name square which
+# calculate the area and perimeter
 
 
 class Square:
@@ -25,3 +27,4 @@ if __name__ == "__main__":
     print(s)
     print(s.area_of_my_square())
     print(s.permiterOfMySquare())
+
